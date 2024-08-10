@@ -19,7 +19,7 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=bash,css,html,js,python"
+			src="https://skillicons.dev/icons?i=bash,css,html,python"
 		/>
 	</a>
 </p>
@@ -28,7 +28,7 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=apple,arch,aws,blender,bun,discord,eclipse,figma,git,github,idea,kali,linux,mastodon,mint,neovim,npm,notion,pnpm,pycharm,raspberrypi,replit,robloxstudio,ubuntu,vercel,vim,vscode,vscodium,windows"
+			src="https://skillicons.dev/icons?i=discord,github,kali,linux,vercel,vscode,windows"
 		/>
 	</a>
 </p>
