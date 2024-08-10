@@ -19,7 +19,7 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=bash,css,html,python"
+			src="https://skillicons.dev/icons?i=bash,css,html,python,arduino"
 		/>
 	</a>
 </p>
@@ -29,6 +29,15 @@
 	<a href="https://skillicons.dev">
 		<img
 			src="https://skillicons.dev/icons?i=discord,github,kali,linux,vercel,vscode,windows"
+		/>
+	</a>
+</p>
+
+# Things I am learning
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img
+			src="https://skillicons.dev/icons?i=c,cs,cpp,git,ai,js,lua,raspberrypi,robloxstudio,unity"
 		/>
 	</a>
 </p>
