@@ -38,7 +38,7 @@
 <div align="center">
 	<img
 		width="800"
-		src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight"
+		src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuckling-all-day&theme=tokyonight"
 	/>
 </div>
 
@@ -48,7 +48,7 @@
 	<img
 		width="800"
 		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=tokyonight&no-bg=true&hide_border=true"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=chuckling-all-day&theme=tokyonight&no-bg=true&hide_border=true"
 	/>
 </div>
 
@@ -58,50 +58,6 @@
 	<img
 		width="800"
 		align="center"
-		src="https://streak-stats.demolab.com?user=crllect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+		src="https://streak-stats.demolab.com?user=chuckling-all-day&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
 	/>
 </div>
-
-<h1></h1>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 17 June 2024 - To: 09 August 2024
-
-Total Time: 145 hrs 14 mins
-
-JavaScript     40 hrs 46 mins  ███████##################   28.07 %
-HTML           32 hrs 41 mins  ██████###################   22.51 %
-CSS            20 hrs 12 mins  ███######################   13.91 %
-SCSS           11 hrs 16 mins  ██#######################   07.76 %
-Figma Design   11 hrs 13 mins  ██#######################   07.73 %
-Other          10 hrs 35 mins  ██#######################   07.29 %
-```
-
-<!--END_SECTION:waka-->
-
-<h1></h1>
-
-<div align="center">
-	<a
-		href="https://github.com/ryo-ma/github-profile-trophy"
-	>
-		<img
-			width="800"
-			align="center"
-			src="https://github-profile-trophy.vercel.app/?username=crllect&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
-		/>
-	</a>
-</div>
-
-
-<h2 align="center">
-	<div>
-		<img
-			src="https://komarev.com/ghpvc/?username=crllect&color=979797&style=for-the-badge&label=Profile+Views"
-			alt="Profile Views"
-		/>
-	</div>
-</h2>
-<h3 align="center">Web Developer</h3>
