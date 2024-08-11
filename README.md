@@ -37,7 +37,7 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=c,cs,cpp,git,ai,js,lua,raspberrypi,robloxstudio,unity"
+			src="https://skillicons.dev/icons?i=c,cs,cpp,git,js,lua,raspberrypi,robloxstudio,unity"
 		/>
 	</a>
 </p>
