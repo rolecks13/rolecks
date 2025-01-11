@@ -12,7 +12,7 @@
 
 - 🏫 I am a 7th Grader in Middle School **(13 :D)**
 - 📘 I can speak English and I'm learning German
-- 🔭 I what I want to do or become in life but these are some things I am passionate in: Math, Programming, Aviation, Physics, Science, Cybersecurity, and Robotics.
+- 🔭 I dont know what I want to do or become in life but these are some things I am passionate in: Math, Programming, Aviation, Physics, Science, Cybersecurity, and Robotics.
 - 🌲 I live in MN
 
 # Languages, Libraries, and Frameworks I Know
