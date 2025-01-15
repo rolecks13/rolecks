@@ -44,12 +44,5 @@
 
 <h1></h1>
 
-<div align="center">
-	<img
-		width="800"
-		src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuckling-all-day&theme=tokyonight"
-	/>
-</div>
-
 <h1></h1>
 
