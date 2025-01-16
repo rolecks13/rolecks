@@ -10,7 +10,7 @@
 
 <br />
 
-My name is Rolecks and I am a developer interested in full stack websites, random projects, technology, and python.
+Hey there, I am Rolecks.  I am a self taught developer learning different languages and concepts.  I mainly focus on random projects, web projects, and python projects.
 
 # Languages, Libraries, and Frameworks I Know
 <p align="center">
