@@ -10,7 +10,7 @@
 
 <br />
 
-Hey there, I am Rolecks.  I am a self taught developer learning different languages and concepts.  I mainly focus on random projects, web projects, and python projects.
+Hey there, I'm Rolecks.  I am a self taught developer learning different languages and concepts.  I mainly focus on web projects, and python projects.  I also enjoy tinkering with electronics.
 
 # Languages, Libraries, and Frameworks I Know
 <p align="center">
