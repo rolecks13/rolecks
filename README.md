@@ -10,10 +10,7 @@
 
 <br />
 
-- 🏫 I am a 7th Grader in Middle School **(13 :D)**
-- 📘 I can speak English and I'm learning German
-- 🔭 I dont know what I want to do or become in life but these are some things I am passionate in: Math, Programming, Aviation, Physics, Science, Cybersecurity, and Robotics.
-- 🌲 I live in MN
+My name is Rolecks and I am a developer interested in full stack websites, random projects, technology, and python.
 
 # Languages, Libraries, and Frameworks I Know
 <p align="center">
