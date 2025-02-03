@@ -15,7 +15,7 @@ Hey there, I'm Rolecks.  I am a 13 year old self taught developer learning diffe
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=bash,css,html,python,arduino,discord,github,kali,linux,vercel,vscode,windows,git,js,raspberrypi"
+			src="https://skillicons.dev/icons?i=bash,css,html,python,arduino,discord,github,kali,linux,vercel,vscode,windows,git,js,raspberrypi,java"
 		/>
 	</a>
 </p>
