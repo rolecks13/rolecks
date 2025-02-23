@@ -10,7 +10,7 @@
 
 <br />
 
-Hey there, I'm Rolecks.  I am a 13 year old self taught developer learning different languages and concepts.  I mainly focus on web projects, and python projects.  I also enjoy tinkering with electronics.
+Hey there, I'm Rolecks.  I am a self taught developer learning different languages and concepts.  I mainly focus on web projects, and python projects.  I also enjoy tinkering with electronics.
 
 <p align="center">
 	<a href="https://skillicons.dev">
